@@ -13,7 +13,7 @@ Each row contains a car and several variables about it, including miles-per-gall
 Your goal is to use 5 different tools to make the following chart:
 
 ![ggplot2](img/ggplot2.png)
-![excel](img/excel.png)
+![excel](img/excel.PNG)
 
 
 tests
